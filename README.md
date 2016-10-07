@@ -1,7 +1,7 @@
 ## JS-introduction
 
 
-Week 1, Class 1: JavaScript - Making things happen on your page, part I
+#Week 1, Class 1: JavaScript - Making things happen on your page, part I
 
 JS Introduction 
 (http://www.w3schools.com/js/js_intro.asp)
@@ -12,7 +12,7 @@ JS Selections
 JS-HTML DOM 
 (http://www.w3schools.com/js/js_htmldom.asp) 
 
-Week 1, Class 2: JavaScript - Making things happen on your page, part II
+#Week 1, Class 2: JavaScript - Making things happen on your page, part II
 
 Review of JavaScript Syntax 
 (http://www.w3schools.com/js/js_syntax.asp)
@@ -27,7 +27,7 @@ Class Assignment: TBD
 
 ——— ———
 
-Week 2, Class 1: JavaScript - Selectors & Functions
+#Week 2, Class 1: JavaScript - Selectors & Functions
 
 Selectors 
 (http://api.jquery.com/category/selectors/)
@@ -41,7 +41,7 @@ DOM Manipulation with JavaScript
 Class Assignment: TBD
 
 
-Week 2, Class 2: JQuery and JavaScript, part I
+#Week 2, Class 2: JQuery and JavaScript, part I
 
 If conditions
 (https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Statements/if...else)
@@ -57,7 +57,7 @@ Class assignment: TBD
 
 ——— ———
 
-Week 3, Class 1: JQuery and JavaScript, part I
+#Week 3, Class 1: JQuery and JavaScript, part I
 	
 JQuery 
 http://learn.jquery.com/about-jquery/how-jquery-works/
@@ -68,8 +68,7 @@ https://www.smashingmagazine.com/2014/05/mystery-jquery-object-syntax-basic-intr
 
 Class assignment: TBD
 
-
-Week 3, Class 2: JQuery and JavaScript, part II
+#Week 3, Class 2: JQuery and JavaScript, part II
 
 jQuery Events 
 http://learn.jquery.com/events/introduction-to-events/
@@ -79,10 +78,9 @@ http://api.jquery.com/
 
 Class assignment: TBD
 
-
 ——— ———
 
-Week 4, Class 1: Data Organization & Management, part II 
+#Week 4, Class 1: Data Organization & Management, part II 
 
 Basic underscore
 https://github.com/craigprotzel/Mashups/blob/master/05_Dealing_With_Data/Basic_Underscore/friends.js
@@ -93,7 +91,7 @@ https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Regular_Expression
 Class assignment: TBD
 
 
-Week 4, Class 2: Back to the Server, part I
+#Week 4, Class 2: Back to the Server, part I
 
 Overview of Node express framework 
 http://www.nodebeginner.org/
@@ -107,8 +105,7 @@ http://modernweb.com/2014/04/07/the-basics-of-express-routes/
 
 ——— ———
 
-
-Week 5, Class 1: Server & MVCs with JavaScript
+#Week 5, Class 1: Server & MVCs with JavaScript
 
 
 NPM dependencies 
@@ -124,7 +121,7 @@ http://code.tutsplus.com/tutorials/mvc-for-noobs--net-10488
 Class Assignment: TBD
 
 
-Week 5, Class 2: MV*s with JavaScript 
+#Week 5, Class 2: MV*s with JavaScript 
 
 Questions to ask about MVCs
 http://stackoverflow.com/questions/386885/is-there-a-javascript-mvc-micro-framework 
@@ -132,14 +129,11 @@ http://stackoverflow.com/questions/386885/is-there-a-javascript-mvc-micro-framew
 Code examples (side-by-side) with backbone.js, Ember.js and Angular.js
 https://www.codementor.io/javascript/tutorial/angular-vs-ember-vs-backbone-beginners-learn
 
-
 Class Assignment: TBD
-
 
 ——— ———
 
-Week 7, Class 1: JavaScript creative visualisation
-
+#Week 7, Class 1: JavaScript creative visualisation
 
 Download P5
 http://p5js.org/download/
@@ -154,7 +148,7 @@ http://p5js.org/
 
 Class assignment: TBD
 
-Week 7, Class 2: JavaScript media libraries
+#Week 7, Class 2: JavaScript media libraries
 
 Visualisation with ChartJS
 http://www.chartjs.org/docs/#getting-started-creating-a-chart 
@@ -163,7 +157,7 @@ Class assignment: Create a single web page experience that displays one type of 
 
 ——— ———
 
-Week 8, Class 1: All About APIs, part I
+#Week 8, Class 1: All About APIs, part I
 
 What are APIs 
 http://readwrite.com/2013/09/19/api-defined/ 
@@ -174,7 +168,7 @@ http://www.poynter.org/2011/how-to-use-apis-from-google-facebook-twitter-to-find
 Class assignment: TBD
 
 
-Week 8, Class 2: All About APIs, part II
+#Week 8, Class 2: All About APIs, part II
 
 Modifying API examples 
 https://gigaom.com/2010/10/29/using-apis-not-quite-as-hard-as-it-looks/
@@ -187,8 +181,7 @@ Class assignment: TBD
 
 ——— ———
 
-
-Week 9, Class 1: All About APIs 
+#Week 9, Class 1: All About APIs 
 
 Modifying the Instagram API 
 https://github.com/robynitp/networkedmedia/wiki/Instagram-API-How-to 
@@ -205,7 +198,7 @@ Remember:
  Your completed assignment should include a .html file, a .css file, and a .js file.
 
 
-Week 9, Class 2: All About APIs 
+#Week 9, Class 2: All About APIs 
 
 Google Maps API 
 http://www.w3schools.com/googleapi/google_maps_basic.asp
@@ -217,7 +210,7 @@ Class assignment: TBD
 
 ——— ———
 
-Week 10, Class 1 & 2: More About APIs 
+#Week 10, Class 1 & 2: More About APIs 
 
 Create a single web page that, upon user input, responds with data from at least 2 web APIs. 
 APIs are to be decided, students are to work in pairs on this assignment.
@@ -232,9 +225,9 @@ Your completed assignment should include a .html file, a .css file, and a .js fi
 
 ——— ———
 
-Week 11, Class 1 & 2: Final class assignments, tests + projects TBD  
+#Week 11, Class 1 & 2: Final class assignments, tests + projects TBD  
 
 ——— ———
 
-Week 12, Class 1& 2: Final tests + projects TBD
+#Week 12, Class 1& 2: Final tests + projects TBD
 
